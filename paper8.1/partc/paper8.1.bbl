@@ -1,0 +1,645 @@
+\begin{thebibliography}{77}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Incollection
+\bibitem[{van Arem et~al.(2016)van Arem, Abbas, Li, Head, Zhou, Chen, Bertini,
+  Mattingly, Wang and Orosz}]{Arem2016a}
+\bibinfo{author}{van Arem, B.}, \bibinfo{author}{Abbas, M.M.},
+  \bibinfo{author}{Li, X.}, \bibinfo{author}{Head, L.}, \bibinfo{author}{Zhou,
+  X.}, \bibinfo{author}{Chen, D.}, \bibinfo{author}{Bertini, R.},
+  \bibinfo{author}{Mattingly, S.P.}, \bibinfo{author}{Wang, H.},
+  \bibinfo{author}{Orosz, G.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Integrated traffic flow models and analysis for
+  automated vehicles}, in: \bibinfo{booktitle}{Road Vehicle Automation 3}.
+  \bibinfo{publisher}{Springer}, pp. \bibinfo{pages}{249--258}.
+%Type = Article
+\bibitem[{Behrendt et~al.(2022)Behrendt, Savelsbergh and Wang}]{Behrendt2022}
+\bibinfo{author}{Behrendt, A.}, \bibinfo{author}{Savelsbergh, M.},
+  \bibinfo{author}{Wang, H.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{A prescriptive machine learning method for courier
+  scheduling on crowdsourced delivery platforms}.
+\newblock \bibinfo{journal}{Transportation Science} .
+%Type = Book
+\bibitem[{Boyd et~al.(1994)Boyd, El~Ghaoui, Feron and
+  Balakrishnan}]{boyd1994linear}
+\bibinfo{author}{Boyd, S.}, \bibinfo{author}{El~Ghaoui, L.},
+  \bibinfo{author}{Feron, E.}, \bibinfo{author}{Balakrishnan, V.},
+  \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{Linear matrix inequalities in system and control
+  theory}.
+\newblock \bibinfo{publisher}{SIAM}.
+%Type = Article
+\bibitem[{Brunner et~al.(2022)Brunner, Makridis and Kouvelas}]{Brunner2022}
+\bibinfo{author}{Brunner, J.S.}, \bibinfo{author}{Makridis, M.A.},
+  \bibinfo{author}{Kouvelas, A.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Comparing the observable response times of acc and
+  cacc systems}.
+\newblock \bibinfo{journal}{IEEE Transactions on Intelligent Transportation
+  Systems} .
+%Type = Article
+\bibitem[{Coskun et~al.(2021)Coskun, Huang and Zhang}]{Coskun2021}
+\bibinfo{author}{Coskun, S.}, \bibinfo{author}{Huang, C.},
+  \bibinfo{author}{Zhang, F.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Quadratic programming-based cooperative adaptive
+  cruise control under uncertainty via receding horizon strategy}.
+\newblock \bibinfo{journal}{Transactions of the Institute of Measurement and
+  Control} \bibinfo{volume}{43}, \bibinfo{pages}{2899--2911}.
+%Type = Inproceedings
+\bibitem[{Delis et~al.(2016)Delis, Nikolos and Papageorgiou}]{Delis2016}
+\bibinfo{author}{Delis, A.I.}, \bibinfo{author}{Nikolos, I.K.},
+  \bibinfo{author}{Papageorgiou, M.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Simulation of the penetration rate effects of acc and
+  cacc on macroscopic traffic dynamics}, in: \bibinfo{booktitle}{2016 IEEE 19th
+  International Conference on Intelligent Transportation Systems (ITSC)},
+  \bibinfo{publisher}{IEEE}. pp. \bibinfo{pages}{336--341}.
+%Type = Article
+\bibitem[{Flores and Milanés(2018)}]{Flores2018a}
+\bibinfo{author}{Flores, C.}, \bibinfo{author}{Milanés, V.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Fractional-order-based acc/cacc algorithm for
+  improving string stability}.
+\newblock \bibinfo{journal}{Transportation Research Part C: Emerging
+  Technologies} \bibinfo{volume}{95}, \bibinfo{pages}{381--393}.
+%Type = Article
+\bibitem[{Fricker and Whitford(2004)}]{Fricker2004}
+\bibinfo{author}{Fricker, J.D.}, \bibinfo{author}{Whitford, R.K.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Fundamentals of transportation engineering}.
+\newblock \bibinfo{journal}{A Multimodal Systems Approach. Inc. Upper Saddle
+  River, New Jersey, USA} .
+%Type = Article
+\bibitem[{Fridman(2006)}]{fridman2006descriptor}
+\bibinfo{author}{Fridman, E.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Descriptor discretized lyapunov functional method:
+  analysis and design}.
+\newblock \bibinfo{journal}{IEEE Transactions on Automatic control}
+  \bibinfo{volume}{51}, \bibinfo{pages}{890--897}.
+%Type = Article
+\bibitem[{Gong and Du(2018)}]{Gong2018a}
+\bibinfo{author}{Gong, S.}, \bibinfo{author}{Du, L.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Cooperative platoon control for a mixed traffic flow
+  including human drive vehicles and connected and autonomous vehicles}.
+\newblock \bibinfo{journal}{Transportation research part B: methodological}
+  \bibinfo{volume}{116}, \bibinfo{pages}{25--61}.
+%Type = Article
+\bibitem[{Gu(2001)}]{gu2001further}
+\bibinfo{author}{Gu, K.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{A further refinement of discretized lyapunov
+  functional method for the stability of time-delay systems}.
+\newblock \bibinfo{journal}{International Journal of Control}
+  \bibinfo{volume}{74}, \bibinfo{pages}{967--976}.
+%Type = Book
+\bibitem[{Gu et~al.(2003)Gu, Chen and Kharitonov}]{gu2003stability}
+\bibinfo{author}{Gu, K.}, \bibinfo{author}{Chen, J.},
+  \bibinfo{author}{Kharitonov, V.L.}, \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{Stability of time-delay systems}.
+\newblock \bibinfo{publisher}{Springer Science \& Business Media}.
+%Type = Book
+\bibitem[{Hay(1977)}]{Hay1977}
+\bibinfo{author}{Hay, W.W.}, \bibinfo{year}{1977}.
+\newblock \bibinfo{title}{An Introduction to Transportation Engineering}.
+  volume~\bibinfo{volume}{2}.
+%Type = Article
+\bibitem[{Herman et~al.(1959)Herman, Montroll, Potts and
+  Rothery}]{herman1959traffic}
+\bibinfo{author}{Herman, R.}, \bibinfo{author}{Montroll, E.W.},
+  \bibinfo{author}{Potts, R.B.}, \bibinfo{author}{Rothery, R.W.},
+  \bibinfo{year}{1959}.
+\newblock \bibinfo{title}{Traffic dynamics: analysis of stability in car
+  following}.
+\newblock \bibinfo{journal}{Operations research} \bibinfo{volume}{7},
+  \bibinfo{pages}{86--106}.
+%Type = Article
+\bibitem[{Ioannou and Stefanovic(2005)}]{Ioannou2005}
+\bibinfo{author}{Ioannou, P.A.}, \bibinfo{author}{Stefanovic, M.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Evaluation of acc vehicles in mixed traffic: Lane
+  change effects and sensitivity analysis}.
+\newblock \bibinfo{journal}{IEEE Transactions on Intelligent Transportation
+  Systems} \bibinfo{volume}{6}, \bibinfo{pages}{79--89}.
+%Type = Inproceedings
+\bibitem[{Kamath et~al.(2015)Kamath, Jagannathan and Raina}]{kamath2015car}
+\bibinfo{author}{Kamath, G.K.}, \bibinfo{author}{Jagannathan, K.},
+  \bibinfo{author}{Raina, G.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Car-following models with delayed feedback: local
+  stability and hopf bifurcation}, in: \bibinfo{booktitle}{2015 53rd Annual
+  Allerton Conference on Communication, Control, and Computing (Allerton)},
+  \bibinfo{organization}{IEEE}. pp. \bibinfo{pages}{538--545}.
+%Type = Article
+\bibitem[{Kerner(2021)}]{Kerner2021}
+\bibinfo{author}{Kerner, B.S.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Effect of autonomous driving on traffic breakdown in
+  mixed traffic flow: A comparison of classical acc with
+  three-traffic-phase-acc (tpacc)}.
+\newblock \bibinfo{journal}{Physica A: Statistical Mechanics and its
+  Applications} \bibinfo{volume}{562}, \bibinfo{pages}{125315}.
+%Type = Incollection
+\bibitem[{Kesting et~al.(2007)Kesting, Treiber, Schönhof, Kranke and
+  Helbing}]{Kesting2007}
+\bibinfo{author}{Kesting, A.}, \bibinfo{author}{Treiber, M.},
+  \bibinfo{author}{Schönhof, M.}, \bibinfo{author}{Kranke, F.},
+  \bibinfo{author}{Helbing, D.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Jam-avoiding adaptive cruise control (acc) and its
+  impact on traffic dynamics}, in: \bibinfo{booktitle}{Traffic and Granular
+  Flow'05}. \bibinfo{publisher}{Springer}, pp. \bibinfo{pages}{633--643}.
+%Type = Article
+\bibitem[{Kim and Jerath(2021)}]{Kim2021}
+\bibinfo{author}{Kim, T.}, \bibinfo{author}{Jerath, K.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Congestion-aware cooperative adaptive cruise control
+  for mitigation of self-organized traffic jams}.
+\newblock \bibinfo{journal}{IEEE Transactions on Intelligent Transportation
+  Systems} .
+%Type = Article
+\bibitem[{Kollár et~al.(2006)Kollár, Pintelon and Schoukens}]{Kollar2006a}
+\bibinfo{author}{Kollár, I.}, \bibinfo{author}{Pintelon, R.},
+  \bibinfo{author}{Schoukens, J.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Frequency domain system identification toolbox for
+  matlab: Characterizing nonlinear errors of linear models}.
+\newblock \bibinfo{journal}{IFAC Proceedings Volumes} \bibinfo{volume}{39},
+  \bibinfo{pages}{726--731}.
+%Type = Book
+\bibitem[{Kolmanovskii and Myshkis(1999)}]{Kolmanovskii1999}
+\bibinfo{author}{Kolmanovskii, V.}, \bibinfo{author}{Myshkis, A.},
+  \bibinfo{year}{1999}.
+\newblock \bibinfo{title}{Introduction to the Theory and Applications of
+  Functional Differential Equations}.
+\newblock \bibinfo{publisher}{Springer Netherlands},
+  \bibinfo{address}{Dordrecht}.
+\newblock \DOIprefix\doi{10.1007/978-94-017-1965-0}.
+%Type = Article
+\bibitem[{Lai et~al.(2020)Lai, Hu, Cui, Chen and Yang}]{Lai2020}
+\bibinfo{author}{Lai, J.}, \bibinfo{author}{Hu, J.}, \bibinfo{author}{Cui, L.},
+  \bibinfo{author}{Chen, Z.}, \bibinfo{author}{Yang, X.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{A generic simulation platform for cooperative
+  adaptive cruise control under partially connected and automated environment}.
+\newblock \bibinfo{journal}{Transportation Research Part C: Emerging
+  Technologies} \bibinfo{volume}{121}, \bibinfo{pages}{102874}.
+%Type = Article
+\bibitem[{Lhachemi and Prieur(2020)}]{lhachemi2020feedback}
+\bibinfo{author}{Lhachemi, H.}, \bibinfo{author}{Prieur, C.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Feedback stabilization of a class of diagonal
+  infinite-dimensional systems with delay boundary control}.
+\newblock \bibinfo{journal}{IEEE Transactions on Automatic Control}
+  \bibinfo{volume}{66}, \bibinfo{pages}{105--120}.
+%Type = Article
+\bibitem[{Li et~al.(2010)Li, Sun and Cui}]{li2010lyapunov}
+\bibinfo{author}{Li, Y.}, \bibinfo{author}{Sun, D.}, \bibinfo{author}{Cui, M.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Lyapunov stability analysis for the full velocity
+  difference car-following model}.
+\newblock \bibinfo{journal}{Control Theory \& Applications}
+  \bibinfo{volume}{12}, \bibinfo{pages}{014}.
+%Type = Article
+\bibitem[{Li et~al.(2013)Li, Zhu, Cen, Li, Li and Sun}]{li2013stability}
+\bibinfo{author}{Li, Y.}, \bibinfo{author}{Zhu, H.}, \bibinfo{author}{Cen, M.},
+  \bibinfo{author}{Li, Y.}, \bibinfo{author}{Li, R.}, \bibinfo{author}{Sun,
+  D.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{On the stability analysis of microscopic traffic
+  car-following model: a case study}.
+\newblock \bibinfo{journal}{Nonlinear Dynamics} \bibinfo{volume}{74},
+  \bibinfo{pages}{335--343}.
+%Type = Article
+\bibitem[{Lian et~al.(2020)Lian, Xiao, Yan, Yang and
+  Zeng}]{lian2020dissipativity}
+\bibinfo{author}{Lian, H.H.}, \bibinfo{author}{Xiao, S.P.},
+  \bibinfo{author}{Yan, H.}, \bibinfo{author}{Yang, F.}, \bibinfo{author}{Zeng,
+  H.B.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Dissipativity analysis for neural networks with
+  time-varying delays via a delay-product-type lyapunov functional approach}.
+\newblock \bibinfo{journal}{IEEE transactions on neural networks and learning
+  systems} \bibinfo{volume}{32}, \bibinfo{pages}{975--984}.
+%Type = Article
+\bibitem[{van Lint et~al.(2016)van Lint, Schakel, Tamminga, Knoppers and
+  Verbraeck}]{vanLint2016}
+\bibinfo{author}{van Lint, H.}, \bibinfo{author}{Schakel, W.},
+  \bibinfo{author}{Tamminga, G.}, \bibinfo{author}{Knoppers, P.},
+  \bibinfo{author}{Verbraeck, A.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Getting the human factor into traffic flow models:
+  New open-source design to simulate next generation of traffic operations}.
+\newblock \bibinfo{journal}{Transportation Research Record}
+  \bibinfo{volume}{2561}, \bibinfo{pages}{25--33}.
+%Type = Article
+\bibitem[{Liu and Jiang(2021)}]{Liu2021b}
+\bibinfo{author}{Liu, H.}, \bibinfo{author}{Jiang, R.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Improving comfort level in traffic flow of cacc
+  vehicles at lane drop on two-lane highways}.
+\newblock \bibinfo{journal}{Physica A: Statistical Mechanics and its
+  Applications} \bibinfo{volume}{575}, \bibinfo{pages}{126055}.
+%Type = Book
+\bibitem[{Ljung(1995)}]{Ljung1995a}
+\bibinfo{author}{Ljung, L.}, \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{System Identification Toolbox: User's Guide}.
+\newblock \bibinfo{publisher}{Citeseer}.
+%Type = Article
+\bibitem[{Ma et~al.(2021)Ma, Yu and Yang}]{Ma2021}
+\bibinfo{author}{Ma, C.}, \bibinfo{author}{Yu, C.}, \bibinfo{author}{Yang, X.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Trajectory planning for connected and automated
+  vehicles at isolated signalized intersections under mixed traffic
+  environment}.
+\newblock \bibinfo{journal}{Transportation research part C: emerging
+  technologies} \bibinfo{volume}{130}, \bibinfo{pages}{103309}.
+%Type = Article
+\bibitem[{Mak and Bjäde(2011)}]{Mak2011}
+\bibinfo{author}{Mak, S.}, \bibinfo{author}{Bjäde, M.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Design and implementation of cooperative adaptive
+  cruise control} .
+%Type = Article
+\bibitem[{Malik et~al.(2022)Malik, Contreras and Vidyarthi}]{Malik2022}
+\bibinfo{author}{Malik, A.}, \bibinfo{author}{Contreras, I.},
+  \bibinfo{author}{Vidyarthi, N.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Two-level capacitated discrete location with concave
+  costs}.
+\newblock \bibinfo{journal}{Transportation Science} .
+%Type = Inproceedings
+\bibitem[{Mannoni et~al.(2019)Mannoni, Berg, Sesia and Perraud}]{Mannoni2019}
+\bibinfo{author}{Mannoni, V.}, \bibinfo{author}{Berg, V.},
+  \bibinfo{author}{Sesia, S.}, \bibinfo{author}{Perraud, E.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{A comparison of the v2x communication systems: Its-g5
+  and c-v2x}, in: \bibinfo{booktitle}{2019 IEEE 89th Vehicular Technology
+  Conference (VTC2019-Spring)}, \bibinfo{publisher}{IEEE}. pp.
+  \bibinfo{pages}{1--5}.
+%Type = Article
+\bibitem[{Martín-Sacristán et~al.(2020)Martín-Sacristán, Roger,
+  Garcia-Roger, Monserrat, Spapis, Zhou and Kaloxylos}]{Martin-Sacristan2020a}
+\bibinfo{author}{Martín-Sacristán, D.}, \bibinfo{author}{Roger, S.},
+  \bibinfo{author}{Garcia-Roger, D.}, \bibinfo{author}{Monserrat, J.F.},
+  \bibinfo{author}{Spapis, P.}, \bibinfo{author}{Zhou, C.},
+  \bibinfo{author}{Kaloxylos, A.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Low-latency infrastructure-based cellular v2v
+  communications for multi-operator environments with regional split}.
+\newblock \bibinfo{journal}{IEEE Transactions on Intelligent Transportation
+  Systems} \bibinfo{volume}{22}, \bibinfo{pages}{1052--1067}.
+%Type = Article
+\bibitem[{Milan{\'e}s and Shladover(2014)}]{milanes2014modeling}
+\bibinfo{author}{Milan{\'e}s, V.}, \bibinfo{author}{Shladover, S.E.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Modeling cooperative and autonomous adaptive cruise
+  control dynamic responses using experimental data}.
+\newblock \bibinfo{journal}{Transportation Research Part C: Emerging
+  Technologies} \bibinfo{volume}{48}, \bibinfo{pages}{285--300}.
+%Type = Inproceedings
+\bibitem[{Mu et~al.(2021)Mu, Chen, Sakr, Ryu, Wang, Avedisov, Guo and
+  Park}]{Mu2021}
+\bibinfo{author}{Mu, Z.}, \bibinfo{author}{Chen, Z.}, \bibinfo{author}{Sakr,
+  A.H.}, \bibinfo{author}{Ryu, S.}, \bibinfo{author}{Wang, T.},
+  \bibinfo{author}{Avedisov, S.S.}, \bibinfo{author}{Guo, R.},
+  \bibinfo{author}{Park, B.B.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Assessment of cooperative adaptive cruise control in
+  mixed traffic on arterial roads}, in: \bibinfo{booktitle}{2021 IEEE
+  International Intelligent Transportation Systems Conference (ITSC)},
+  \bibinfo{publisher}{IEEE}. pp. \bibinfo{pages}{3851--3856}.
+%Type = Article
+\bibitem[{Naus et~al.(2010)Naus, Vugts, Ploeg, van De~Molengraft and
+  Steinbuch}]{Naus2010a}
+\bibinfo{author}{Naus, G.J.}, \bibinfo{author}{Vugts, R.P.},
+  \bibinfo{author}{Ploeg, J.}, \bibinfo{author}{van De~Molengraft, M.J.},
+  \bibinfo{author}{Steinbuch, M.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{String-stable cacc design and experimental
+  validation: A frequency-domain approach}.
+\newblock \bibinfo{journal}{IEEE Transactions on vehicular technology}
+  \bibinfo{volume}{59}, \bibinfo{pages}{4268--4279}.
+%Type = Article
+\bibitem[{Navas and Milanés(2019)}]{Navas2019a}
+\bibinfo{author}{Navas, F.}, \bibinfo{author}{Milanés, V.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Mixing v2v-and non-v2v-equipped vehicles in car
+  following}.
+\newblock \bibinfo{journal}{Transportation research part C: emerging
+  technologies} \bibinfo{volume}{108}, \bibinfo{pages}{167--181}.
+%Type = Article
+\bibitem[{Ngoduy(2012)}]{Ngoduy2012}
+\bibinfo{author}{Ngoduy, D.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Application of gas-kinetic theory to modelling mixed
+  traffic of manual and acc vehicles}.
+\newblock \bibinfo{journal}{Transportmetrica} \bibinfo{volume}{8},
+  \bibinfo{pages}{43--60}.
+%Type = Inproceedings
+\bibitem[{Nikolos et~al.(2015)Nikolos, Delis and Papageorgiou}]{Nikolos2015a}
+\bibinfo{author}{Nikolos, I.K.}, \bibinfo{author}{Delis, A.I.},
+  \bibinfo{author}{Papageorgiou, M.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Macroscopic modelling and simulation of acc and cacc
+  traffic}, in: \bibinfo{booktitle}{2015 IEEE 18th International Conference on
+  Intelligent Transportation Systems}, \bibinfo{publisher}{IEEE}. pp.
+  \bibinfo{pages}{2129--2134}.
+%Type = Book
+\bibitem[{Ogata(1995)}]{ogata1995discrete}
+\bibinfo{author}{Ogata, K.}, \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{Discrete-time control systems}.
+\newblock \bibinfo{publisher}{Prentice-Hall, Inc.}
+%Type = Article
+\bibitem[{Ozdemir and Gumussoy(2017)}]{Ozdemir2017a}
+\bibinfo{author}{Ozdemir, A.A.}, \bibinfo{author}{Gumussoy, S.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Transfer function estimation in system identification
+  toolbox via vector fitting}.
+\newblock \bibinfo{journal}{IFAC-PapersOnLine} \bibinfo{volume}{50},
+  \bibinfo{pages}{6232--6237}.
+%Type = Article
+\bibitem[{Petersen and Hollot(1986)}]{petersen1986riccati}
+\bibinfo{author}{Petersen, I.R.}, \bibinfo{author}{Hollot, C.V.},
+  \bibinfo{year}{1986}.
+\newblock \bibinfo{title}{A riccati equation approach to the stabilization of
+  uncertain linear systems}.
+\newblock \bibinfo{journal}{Automatica} \bibinfo{volume}{22},
+  \bibinfo{pages}{397--411}.
+%Type = Article
+\bibitem[{POPEO(2020)}]{POPEO2020}
+\bibinfo{author}{POPEO, P.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Federal communications commission} .
+%Type = Article
+\bibitem[{Qin et~al.(2021)Qin, Wang and Ni}]{Qin2021a}
+\bibinfo{author}{Qin, Y.}, \bibinfo{author}{Wang, H.}, \bibinfo{author}{Ni,
+  D.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Lighthill-whitham-richards model for traffic flow
+  mixed with cooperative adaptive cruise control vehicles}.
+\newblock \bibinfo{journal}{Transportation Science} \bibinfo{volume}{55},
+  \bibinfo{pages}{883--907}.
+%Type = Book
+\bibitem[{Rajamani(2011)}]{rajamani2011vehicle}
+\bibinfo{author}{Rajamani, R.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Vehicle dynamics and control}.
+\newblock \bibinfo{publisher}{Springer Science \& Business Media}.
+%Type = Unpublished
+\bibitem[{Razzaghpour et~al.(2022)Razzaghpour, Mosharafian, Raftari, Velni and
+  Fallah}]{Razzaghpour2022}
+\bibinfo{author}{Razzaghpour, M.}, \bibinfo{author}{Mosharafian, S.},
+  \bibinfo{author}{Raftari, A.}, \bibinfo{author}{Velni, J.M.},
+  \bibinfo{author}{Fallah, Y.P.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Impact of information flow topology on safety of
+  tightly-coupled connected and automated vehicle platoons utilizing stochastic
+  control}.
+\newblock \href{http://arxiv.org/abs/2203.15772}{\tt arXiv:2203.15772}.
+%Type = Article
+\bibitem[{Ruan et~al.(2022)Ruan, Wang, Zhou, Zhang, Dong and Zuo}]{Ruan2022}
+\bibinfo{author}{Ruan, T.}, \bibinfo{author}{Wang, H.}, \bibinfo{author}{Zhou,
+  L.}, \bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Dong, C.},
+  \bibinfo{author}{Zuo, Z.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Impacts of information flow topology on traffic
+  dynamics of cav-mv heterogeneous flow}.
+\newblock \bibinfo{journal}{IEEE Transactions on Intelligent Transportation
+  Systems} .
+%Type = Article
+\bibitem[{Rudin-Brown and Parker(2004)}]{Rudin-Brown2004}
+\bibinfo{author}{Rudin-Brown, C.M.}, \bibinfo{author}{Parker, H.A.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Behavioural adaptation to adaptive cruise control
+  (acc): Implications for preventive strategies}.
+\newblock \bibinfo{journal}{Transportation Research Part F: Traffic Psychology
+  and Behaviour} \bibinfo{volume}{7}, \bibinfo{pages}{59--76}.
+%Type = Article
+\bibitem[{Saito and Raksincharoensak(2016)}]{Saito2016}
+\bibinfo{author}{Saito, Y.}, \bibinfo{author}{Raksincharoensak, P.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Shared control in risk predictive braking maneuver
+  for preventing collisions with pedestrians}.
+\newblock \bibinfo{journal}{IEEE Transactions on Intelligent Vehicles}
+  \bibinfo{volume}{1}, \bibinfo{pages}{314--324}.
+%Type = Article
+\bibitem[{Sehla et~al.(2022)Sehla, Nguyen, Pujolle and Velloso}]{Sehla2022}
+\bibinfo{author}{Sehla, K.}, \bibinfo{author}{Nguyen, T.M.T.},
+  \bibinfo{author}{Pujolle, G.}, \bibinfo{author}{Velloso, P.B.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Resource allocation modes in c-v2x: From lte-v2x to
+  5g-v2x}.
+\newblock \bibinfo{journal}{IEEE Internet of Things Journal} .
+%Type = Article
+\bibitem[{Shamma(1994)}]{Shamma1994}
+\bibinfo{author}{Shamma, J.S.}, \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{Robust stability with time-varying structured
+  uncertainty}.
+\newblock \bibinfo{journal}{IEEE Transactions on Automatic Control}
+  \bibinfo{volume}{39}, \bibinfo{pages}{714--724}.
+%Type = Article
+\bibitem[{Silgu et~al.(2020)Silgu, Erdağ and Çelikoğlu}]{Silgu2020}
+\bibinfo{author}{Silgu, M.A.}, \bibinfo{author}{Erdağ, �.G.},
+  \bibinfo{author}{Çelikoğlu, H.B.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Network-wide emission effects of cooperative adaptive
+  cruise control with signal control at intersections}.
+\newblock \bibinfo{journal}{Transportation Research Procedia}
+  \bibinfo{volume}{47}, \bibinfo{pages}{545--552}.
+%Type = Article
+\bibitem[{Sun et~al.(2018)Sun, Zheng and Sun}]{sun_stability_2018}
+\bibinfo{author}{Sun, J.}, \bibinfo{author}{Zheng, Z.}, \bibinfo{author}{Sun,
+  J.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Stability analysis methods and their applicability to
+  car-following models in conventional and connected environments}.
+\newblock \bibinfo{journal}{Transportation research part B: methodological}
+  \bibinfo{volume}{109}, \bibinfo{pages}{212--237}.
+\newblock \bibinfo{note}{Publisher: Elsevier}.
+%Type = Inproceedings
+\bibitem[{Taheri and Law(1990)}]{Taheri1990}
+\bibinfo{author}{Taheri, S.}, \bibinfo{author}{Law, E.H.},
+  \bibinfo{year}{1990}.
+\newblock \bibinfo{title}{Investigation of a combined slip control braking and
+  closed loop four wheel steering system for an automobile during combined hard
+  braking and severe steering}, in: \bibinfo{booktitle}{1990 American Control
+  Conference}, \bibinfo{publisher}{IEEE}. pp. \bibinfo{pages}{1862--1867}.
+%Type = Article
+\bibitem[{Talebpour et~al.(2017)Talebpour, Mahmassani and
+  Hamdar}]{Talebpour2017a}
+\bibinfo{author}{Talebpour, A.}, \bibinfo{author}{Mahmassani, H.S.},
+  \bibinfo{author}{Hamdar, S.H.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Effect of information availability on stability of
+  traffic flow: Percolation theory approach}.
+\newblock \bibinfo{journal}{Transportation Research Procedia}
+  \bibinfo{volume}{23}, \bibinfo{pages}{81--100}.
+%Type = Unpublished
+\bibitem[{Vu et~al.(2020)Vu, Liu, Nguyen, Morawski and Le-Ngoc}]{Vu2020a}
+\bibinfo{author}{Vu, H.V.}, \bibinfo{author}{Liu, Z.}, \bibinfo{author}{Nguyen,
+  D.H.}, \bibinfo{author}{Morawski, R.}, \bibinfo{author}{Le-Ngoc, T.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Multi-agent reinforcement learning for joint channel
+  assignment and power allocation in platoon-based c-v2x systems}.
+\newblock \href{http://arxiv.org/abs/2011.04555}{\tt arXiv:2011.04555}.
+%Type = Article
+\bibitem[{Vukadinovic et~al.(2018)Vukadinovic, Bakowski, Marsch, Garcia, Xu,
+  Sybis, Sroka, Wesolowski, Lister and Thibault}]{Vukadinovic2018a}
+\bibinfo{author}{Vukadinovic, V.}, \bibinfo{author}{Bakowski, K.},
+  \bibinfo{author}{Marsch, P.}, \bibinfo{author}{Garcia, I.D.},
+  \bibinfo{author}{Xu, H.}, \bibinfo{author}{Sybis, M.},
+  \bibinfo{author}{Sroka, P.}, \bibinfo{author}{Wesolowski, K.},
+  \bibinfo{author}{Lister, D.}, \bibinfo{author}{Thibault, I.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{3gpp c-v2x and ieee 802.11 p for vehicle-to-vehicle
+  communications in highway platooning scenarios}.
+\newblock \bibinfo{journal}{Ad Hoc Networks} \bibinfo{volume}{74},
+  \bibinfo{pages}{17--29}.
+%Type = Article
+\bibitem[{Wang et~al.(2019)Wang, Gong, Peeta and Lu}]{Wang2019a}
+\bibinfo{author}{Wang, J.}, \bibinfo{author}{Gong, S.}, \bibinfo{author}{Peeta,
+  S.}, \bibinfo{author}{Lu, L.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{A real-time deployable model predictive control-based
+  cooperative platooning approach for connected and autonomous vehicles}.
+\newblock \bibinfo{journal}{Transportation Research Part B: Methodological}
+  \bibinfo{volume}{128}, \bibinfo{pages}{271--301}.
+%Type = Article
+\bibitem[{Wang(2018)}]{Wang2018e}
+\bibinfo{author}{Wang, M.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Infrastructure assisted adaptive driving to stabilise
+  heterogeneous vehicle strings}.
+\newblock \bibinfo{journal}{Transportation Research Part C: Emerging
+  Technologies} \bibinfo{volume}{91}, \bibinfo{pages}{276--295}.
+%Type = Article
+\bibitem[{Wang et~al.(2022)Wang, Wang, Guo, Papamichail, Papageorgiou, Wang,
+  Bertini, Hua and Yang}]{Wang2022}
+\bibinfo{author}{Wang, Y.}, \bibinfo{author}{Wang, L.}, \bibinfo{author}{Guo,
+  J.}, \bibinfo{author}{Papamichail, I.}, \bibinfo{author}{Papageorgiou, M.},
+  \bibinfo{author}{Wang, F.Y.}, \bibinfo{author}{Bertini, R.},
+  \bibinfo{author}{Hua, W.}, \bibinfo{author}{Yang, Q.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Ego-efficient lane changes of connected and automated
+  vehicles with impacts on traffic flow}.
+\newblock \bibinfo{journal}{Transportation research part C: emerging
+  technologies} \bibinfo{volume}{138}, \bibinfo{pages}{103478}.
+%Type = Article
+\bibitem[{Wang et~al.(2016)Wang, Xia and Zhou}]{wang2016fuzzy}
+\bibinfo{author}{Wang, Y.}, \bibinfo{author}{Xia, Y.}, \bibinfo{author}{Zhou,
+  P.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Fuzzy-model-based sampled-data control of chaotic
+  systems: A fuzzy time-dependent lyapunov--krasovskii functional approach}.
+\newblock \bibinfo{journal}{IEEE Transactions on fuzzy systems}
+  \bibinfo{volume}{25}, \bibinfo{pages}{1672--1684}.
+%Type = Article
+\bibitem[{Wu et~al.(2004)Wu, He, She and Liu}]{Wu2004}
+\bibinfo{author}{Wu, M.}, \bibinfo{author}{He, Y.}, \bibinfo{author}{She,
+  J.H.}, \bibinfo{author}{Liu, G.P.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Delay-dependent criteria for robust stability of
+  time-varying delay systems}.
+\newblock \bibinfo{journal}{Automatica} \bibinfo{volume}{40},
+  \bibinfo{pages}{1435--1439}.
+%Type = Article
+\bibitem[{Wu et~al.(2022)Wu, Zhang, Chen, Liang and Zhang}]{Wu2022}
+\bibinfo{author}{Wu, T.}, \bibinfo{author}{Zhang, C.}, \bibinfo{author}{Chen,
+  W.}, \bibinfo{author}{Liang, Z.}, \bibinfo{author}{Zhang, X.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Unsupervised learning-driven matheuristic for
+  production-distribution problems}.
+\newblock \bibinfo{journal}{Transportation Science} .
+%Type = Article
+\bibitem[{Wu et~al.(2021)Wu, Wang and Zhou}]{Wu2021}
+\bibinfo{author}{Wu, Z.}, \bibinfo{author}{Wang, Z.}, \bibinfo{author}{Zhou,
+  T.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Global uniform asymptotical stability for
+  fractional-order gene regulatory networks with time-varying delays and
+  structured uncertainties}.
+\newblock \bibinfo{journal}{Advances in Difference Equations}
+  \bibinfo{volume}{2021}, \bibinfo{pages}{1--18}.
+%Type = Article
+\bibitem[{Yang et~al.(2021)Yang, Feng and Liu}]{Yang2021}
+\bibinfo{author}{Yang, Z.}, \bibinfo{author}{Feng, Y.}, \bibinfo{author}{Liu,
+  H.X.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{A cooperative driving framework for urban arterials
+  in mixed traffic conditions}.
+\newblock \bibinfo{journal}{Transportation research part C: emerging
+  technologies} \bibinfo{volume}{124}, \bibinfo{pages}{102918}.
+%Type = Article
+\bibitem[{Ye and Yamamoto(2018)}]{Ye2018a}
+\bibinfo{author}{Ye, L.}, \bibinfo{author}{Yamamoto, T.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Impact of dedicated lanes for connected and
+  autonomous vehicle on traffic flow throughput}.
+\newblock \bibinfo{journal}{Physica A: Statistical Mechanics and its
+  Applications} \bibinfo{volume}{512}, \bibinfo{pages}{588--597}.
+%Type = Article
+\bibitem[{Yu et~al.(2021)Yu, Jiang, He, Zheng, Li, Liu and Chen}]{Yu2021a}
+\bibinfo{author}{Yu, H.}, \bibinfo{author}{Jiang, R.}, \bibinfo{author}{He,
+  Z.}, \bibinfo{author}{Zheng, Z.}, \bibinfo{author}{Li, L.},
+  \bibinfo{author}{Liu, R.}, \bibinfo{author}{Chen, X.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Automated vehicle-involved traffic flow studies: A
+  survey of assumptions, models, speculations, and perspectives}.
+\newblock \bibinfo{journal}{Transportation research part C: emerging
+  technologies} \bibinfo{volume}{127}, \bibinfo{pages}{103101}.
+%Type = Article
+\bibitem[{Zhang et~al.(2015)Zhang, Yu, Wang, Zuo and Song}]{zhang2015all}
+\bibinfo{author}{Zhang, L.}, \bibinfo{author}{Yu, L.}, \bibinfo{author}{Wang,
+  Z.}, \bibinfo{author}{Zuo, L.}, \bibinfo{author}{Song, J.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{All-wheel braking force allocation during a
+  braking-in-turn maneuver for vehicles with the brake-by-wire system
+  considering braking efficiency and stability}.
+\newblock \bibinfo{journal}{IEEE Transactions on Vehicular Technology}
+  \bibinfo{volume}{65}, \bibinfo{pages}{4752--4767}.
+%Type = Article
+\bibitem[{Zhang and Jarrett(1997)}]{zhang1997stability}
+\bibinfo{author}{Zhang, X.}, \bibinfo{author}{Jarrett, D.F.},
+  \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{Stability analysis of the classical car-following
+  model}.
+\newblock \bibinfo{journal}{Transportation Research Part B: Methodological}
+  \bibinfo{volume}{31}, \bibinfo{pages}{441--462}.
+%Type = Article
+\bibitem[{Zhang et~al.(2021)Zhang, Chen, Li, Liu, Huang, Cunningham and
+  Early}]{Zhang2021}
+\bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Chen, Z.}, \bibinfo{author}{Li,
+  G.}, \bibinfo{author}{Liu, Y.}, \bibinfo{author}{Huang, Y.},
+  \bibinfo{author}{Cunningham, G.}, \bibinfo{author}{Early, J.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Integrated velocity prediction method and application
+  in vehicle-environment cooperative control based on internet of vehicles}.
+\newblock \bibinfo{journal}{IEEE Transactions on Vehicular Technology}
+  \bibinfo{volume}{71}, \bibinfo{pages}{2639--2654}.
+%Type = Article
+\bibitem[{Zhao and Zhang(2020)}]{Zhao2020}
+\bibinfo{author}{Zhao, S.}, \bibinfo{author}{Zhang, K.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{A distributionally robust stochastic
+  optimization-based model predictive control with distributionally robust
+  chance constraints for cooperative adaptive cruise control under uncertain
+  traffic conditions}.
+\newblock \bibinfo{journal}{Transportation Research Part B: Methodological}
+  \bibinfo{volume}{138}, \bibinfo{pages}{144--178}.
+%Type = Article
+\bibitem[{Zheng et~al.(2015)Zheng, Li, Wang, Cao and Li}]{Zheng2015a}
+\bibinfo{author}{Zheng, Y.}, \bibinfo{author}{Li, S.E.}, \bibinfo{author}{Wang,
+  J.}, \bibinfo{author}{Cao, D.}, \bibinfo{author}{Li, K.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Stability and scalability of homogeneous vehicular
+  platoon: Study on the influence of information flow topologies}.
+\newblock \bibinfo{journal}{IEEE Transactions on intelligent transportation
+  systems} \bibinfo{volume}{17}, \bibinfo{pages}{14--26}.
+%Type = Inproceedings
+\bibitem[{Zheng et~al.(2014)Zheng, Li, Wang and Li}]{Zheng2014a}
+\bibinfo{author}{Zheng, Y.}, \bibinfo{author}{Li, S.E.}, \bibinfo{author}{Wang,
+  J.}, \bibinfo{author}{Li, K.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Influence of information flow topology on closed-loop
+  stability of vehicle platoon with rigid formation}, in:
+  \bibinfo{booktitle}{17th International IEEE Conference on Intelligent
+  Transportation Systems (ITSC)}, \bibinfo{publisher}{IEEE}. pp.
+  \bibinfo{pages}{2094--2100}.
+%Type = Article
+\bibitem[{Zhong et~al.(2020)Zhong, Lee, Nejad and Lee}]{Zhong2020a}
+\bibinfo{author}{Zhong, Z.}, \bibinfo{author}{Lee, E.E.},
+  \bibinfo{author}{Nejad, M.}, \bibinfo{author}{Lee, J.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Influence of cav clustering strategies on mixed
+  traffic flow characteristics: An analysis of vehicle trajectory data}.
+\newblock \bibinfo{journal}{Transportation Research Part C: Emerging
+  Technologies} \bibinfo{volume}{115}, \bibinfo{pages}{102611}.
+%Type = Article
+\bibitem[{Zhou et~al.(2021)Zhou, Ruan, Ma, Dong and Wang}]{Zhou2021a}
+\bibinfo{author}{Zhou, L.}, \bibinfo{author}{Ruan, T.}, \bibinfo{author}{Ma,
+  K.}, \bibinfo{author}{Dong, C.}, \bibinfo{author}{Wang, H.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Impact of cav platoon management on traffic flow
+  considering degradation of control mode}.
+\newblock \bibinfo{journal}{Physica A: Statistical Mechanics and its
+  Applications} \bibinfo{volume}{581}, \bibinfo{pages}{126193}.
+%Type = Article
+\bibitem[{Zhou et~al.(2019)Zhou, Wang and Ahn}]{Zhou2019c}
+\bibinfo{author}{Zhou, Y.}, \bibinfo{author}{Wang, M.}, \bibinfo{author}{Ahn,
+  S.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Distributed model predictive control approach for
+  cooperative car-following with guaranteed local and string stability}.
+\newblock \bibinfo{journal}{Transportation research part B: methodological}
+  \bibinfo{volume}{128}, \bibinfo{pages}{69--86}.
+
+\end{thebibliography}

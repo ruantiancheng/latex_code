@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: bare_jrnl.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: cas-refs.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in schrank_urban_2019
+Warning--empty journal in otto2016frequency
+Warning--empty journal in popeo2020federal
+
+Done.
+You've used 84 entries,
+            4087 wiz_defined-function locations,
+            1315 strings with 24653 characters,
+and the built_in function-call counts, 69661 in all, are:
+= -- 5886
+> -- 1740
+< -- 651
++ -- 954
+- -- 296
+* -- 3366
+:= -- 10362
+add.period$ -- 174
+call.type$ -- 84
+change.case$ -- 96
+chr.to.int$ -- 1446
+cite$ -- 87
+duplicate$ -- 4928
+empty$ -- 5087
+format.name$ -- 370
+if$ -- 16255
+int.to.chr$ -- 0
+int.to.str$ -- 84
+missing$ -- 831
+newline$ -- 281
+num.names$ -- 84
+pop$ -- 1764
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 5446
+stack$ -- 0
+substring$ -- 3567
+swap$ -- 4258
+text.length$ -- 169
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 84
+warning$ -- 3
+while$ -- 332
+width$ -- 86
+write$ -- 882
+(There were 3 warnings)

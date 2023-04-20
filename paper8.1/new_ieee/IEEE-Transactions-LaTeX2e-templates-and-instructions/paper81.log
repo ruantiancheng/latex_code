@@ -1,0 +1,971 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.27)  10 JAN 2023 15:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**paper81
+(./paper81.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count179
+\@IEEEtrantmpcountB=\count180
+\@IEEEtrantmpcountC=\count181
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen141
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@IEEEsubequation=\count186
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count187
+\c@table=\count188
+\@IEEEeqnnumcols=\count189
+\@IEEEeqncolcnt=\count190
+\@IEEEsubeqnnumrollback=\count191
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count192
+\@IEEEquantizeboxA=\box47
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count193
+\@IEEEtranrubishbin=\box48
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks17
+\thm@bodyfont=\toks18
+\thm@headfont=\toks19
+\thm@notefont=\toks20
+\thm@headpunct=\toks21
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks22
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen162
+)) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen163
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen164
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks24
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks25
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks26
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count272
+\output=\toks28
+\linenoprevgraf=\count273
+\linenumbersep=\dimen171
+\linenumberwidth=\dimen172
+\c@linenumber=\count274
+\c@pagewiselinenumber=\count275
+\c@LN@truepage=\count276
+\c@internallinenumber=\count277
+\c@internallinenumbers=\count278
+\quotelinenumbersep=\dimen173
+\bframerule=\dimen174
+\bframesep=\dimen175
+\bframebox=\box51
+LaTeX Info: Redefining \\ on input line 3056.
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/txfonts/txfonts.sty
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 70.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 164.
+LaTeX Info: Redefining \not on input line 1043.
+LaTeX Info: Redefining \textsquare on input line 1063.
+LaTeX Info: Redefining \openbox on input line 1064.
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks29
+\labelindent=\skip56
+\enit@outerparindent=\dimen176
+\enit@toks=\toks30
+\enit@inbox=\box52
+\enit@count@id=\count279
+\enitdp@description=\count280
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip57
+\multirow@cntb=\count281
+\multirow@dima=\skip58
+\bigstrutjot=\dimen177
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks31
+)
+\captionmargin=\dimen178
+\captionmargin@=\dimen179
+\captionwidth=\dimen180
+\caption@tempdima=\dimen181
+\caption@indent=\dimen182
+\caption@parindent=\dimen183
+\caption@hangindent=\dimen184
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEtablestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\normalfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\normalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONconference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi \fi  on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count282
+\c@continuedfloat=\count283
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen185
+\ar@mcellbox=\box53
+\extrarowheight=\dimen186
+\NC@list=\toks32
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box54
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen187
+\lightrulewidth=\dimen188
+\cmidrulewidth=\dimen189
+\belowrulesep=\dimen190
+\belowbottomsep=\dimen191
+\aboverulesep=\dimen192
+\abovetopsep=\dimen193
+\cmidrulesep=\dimen194
+\cmidrulekern=\dimen195
+\defaultaddspace=\dimen196
+\@cmidla=\count284
+\@cmidlb=\count285
+\@aboverulesep=\dimen197
+\@belowrulesep=\dimen198
+\@thisruleclass=\count286
+\@lastruleclass=\count287
+\@thisrulewidth=\dimen199
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip61
+\LTright=\skip62
+\LTpre=\skip63
+\LTpost=\skip64
+\LTchunksize=\count288
+\LTcapwidth=\dimen256
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@cols=\count289
+\LT@rows=\count290
+\c@LT@tables=\count291
+\c@LT@chunks=\count292
+\LT@p@ftn=\toks33
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup10
+\symboldletters=\mathgroup11
+\symboldsymbols=\mathgroup12
+\symboldlargesymbols=\mathgroup13
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip65
+\bibsep=\skip66
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count293
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip67
+\subfigcapskip=\skip68
+\subfigcaptopadj=\dimen257
+\subfigbottomskip=\skip69
+\subfigcapmargin=\dimen258
+\subfiglabelskip=\skip70
+\c@subfigure=\count294
+\c@lofdepth=\count295
+\c@subtable=\count296
+\c@lotdepth=\count297
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip71
+\subfig@bottom=\skip72
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box59
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks34
+\AP@partial=\box60
+\AP@footins=\box61
+)
+\c@theorem=\count298
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen259
+\Gin@req@width=\dimen260
+)
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 58.
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/txfonts/ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count299
+\l__pdf_internal_box=\box62
+) (./paper81.aux)
+\openout1 = `paper81.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 58.
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/txfonts/omltxmi.fd
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 58.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 58.
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/txfonts/omstxsy.fd
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 58.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 58.
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/txfonts/omxtxex.fd
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 58.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 58.
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/txfonts/utxexa.fd
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <5> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <5> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <7> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <7> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <8> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <8> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <9> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <9> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <10> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <11> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <11> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <12> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <17> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <17> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <20> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <20> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <24> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <24> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 58.
+
+-- Lines per column: 58 (exact).
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: longtable package is loaded.
+(d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: subfigure package is loaded.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count300
+\scratchdimen=\dimen261
+\scratchbox=\box63
+\nofMPsegments=\count301
+\nofMParguments=\count302
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen262
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
+\everyMPtoPDFconversion=\toks36
+) (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+
+Package natbib Warning: Citation `Wu2022' on page 1 undefined on input line 110.
+
+
+Package natbib Warning: Citation `Malik2022' on page 1 undefined on input line 110.
+
+
+Package natbib Warning: Citation `Behrendt2022' on page 1 undefined on input line 110.
+
+
+Package natbib Warning: Citation `Fricker2004' on page 1 undefined on input line 110.
+
+
+Package natbib Warning: Citation `Hay1977' on page 1 undefined on input line 110.
+
+
+Package natbib Warning: Citation `Zhong2020a' on page 1 undefined on input line 110.
+
+
+Package natbib Warning: Citation `Ye2018a' on page 1 undefined on input line 110.
+
+
+Package natbib Warning: Citation `Arem2016a' on page 1 undefined on input line 110.
+
+
+Package natbib Warning: Citation `Yu2021a' on page 1 undefined on input line 110.
+
+
+Package natbib Warning: Citation `vanLint2016' on page 1 undefined on input line 110.
+
+
+Package natbib Warning: Citation `Rudin-Brown2004' on page 1 undefined on input line 112.
+
+
+Package natbib Warning: Citation `Nikolos2015a' on page 1 undefined on input line 112.
+
+
+Package natbib Warning: Citation `Kesting2007' on page 1 undefined on input line 112.
+
+
+Package natbib Warning: Citation `Delis2016' on page 1 undefined on input line 112.
+
+
+Package natbib Warning: Citation `Ngoduy2012' on page 1 undefined on input line 112.
+
+
+Package natbib Warning: Citation `Ioannou2005' on page 1 undefined on input line 112.
+
+
+Package natbib Warning: Citation `Kerner2021' on page 1 undefined on input line 112.
+
+
+Package natbib Warning: Citation `Ruan2022' on page 1 undefined on input line 113.
+
+
+Package natbib Warning: Citation `Brunner2022' on page 1 undefined on input line 113.
+
+
+Package natbib Warning: Citation `Wang2022' on page 1 undefined on input line 113.
+
+
+Package natbib Warning: Citation `Qin2021a' on page 1 undefined on input line 113.
+
+
+Package natbib Warning: Citation `Mu2021' on page 1 undefined on input line 113.
+
+
+Package natbib Warning: Citation `Liu2021b' on page 1 undefined on input line 113.
+
+
+Package natbib Warning: Citation `Kim2021' on page 1 undefined on input line 113.
+
+
+Package natbib Warning: Citation `Yang2021' on page 1 undefined on input line 113.
+
+
+Package natbib Warning: Citation `Zhou2021a' on page 1 undefined on input line 113.
+
+
+Package natbib Warning: Citation `Zhao2020' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Gong2018a' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Zhou2019c' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Talebpour2017a' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Wang2022' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Silgu2020' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Flores2018a' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Wang2019a' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Wang2018e' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Zheng2014a' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Zheng2015a' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `milanes2014modeling' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `rajamani2011vehicle' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Navas2019a' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `Lai2020' on page 1 undefined on input line 115.
+
+
+Package natbib Warning: Citation `herman1959traffic' on page 1 undefined on input line 117.
+
+
+Package natbib Warning: Citation `zhang1997stability' on page 1 undefined on input line 117.
+
+
+Package natbib Warning: Citation `li2010lyapunov' on page 1 undefined on input line 117.
+
+
+Package natbib Warning: Citation `li2013stability' on page 1 undefined on input line 117.
+
+
+Package natbib Warning: Citation `kamath2015car' on page 1 undefined on input line 117.
+
+
+Package natbib Warning: Citation `sun_stability_2018' on page 1 undefined on input line 117.
+
+
+Package natbib Warning: Citation `herman1959traffic' on page 1 undefined on input line 117.
+
+
+Package natbib Warning: Citation `zhang1997stability' on page 1 undefined on input line 117.
+
+
+Package natbib Warning: Citation `li2010lyapunov' on page 1 undefined on input line 117.
+
+
+Package natbib Warning: Citation `li2013stability' on page 1 undefined on input line 117.
+
+
+Package natbib Warning: Citation `kamath2015car' on page 1 undefined on input line 117.
+
+
+Package natbib Warning: Citation `sun_stability_2018' on page 1 undefined on input line 117.
+
+[1{d:/Program Files (x86)/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+
+Package natbib Warning: Citation `lhachemi2020feedback' on page 2 undefined on input line 119.
+
+
+Package natbib Warning: Citation `fridman2006descriptor' on page 2 undefined on input line 119.
+
+
+Package natbib Warning: Citation `wang2016fuzzy' on page 2 undefined on input line 119.
+
+
+Package natbib Warning: Citation `lian2020dissipativity' on page 2 undefined on input line 119.
+
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 161.
+(d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/txfonts/utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 161.
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/txfonts/utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 161.
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/txfonts/utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 161.
+ (d:/Program Files (x86)/texlive/2021/texmf-dist/tex/latex/txfonts/utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
+Underfull \hbox (badness 1803) in paragraph at lines 161--162
+[]\OT1/txr/bx/n/10 Notations: \OT1/txr/m/n/10 Through-out the pa-per, $\U/txsyb/m/n/10 R[]$ \OT1/txr/m/n/10 de-notes the n-
+ []
+
+[2]
+
+Package natbib Warning: Citation `gu2001further' on page 3 undefined on input line 189.
+
+
+Package natbib Warning: Citation `gu2003stability' on page 3 undefined on input line 192.
+
+
+Package natbib Warning: Citation `petersen1986riccati' on page 3 undefined on input line 213.
+
+
+Package natbib Warning: Citation `boyd1994linear' on page 3 undefined on input line 225.
+
+<figs/fig1.png, id=20, 416.757pt x 107.2005pt>
+File: figs/fig1.png Graphic file (type png)
+<use figs/fig1.png>
+Package pdftex.def Info: figs/fig1.png  used on input line 246.
+(pdftex.def)             Requested size: 241.84842pt x 62.20903pt.
+
+Package natbib Warning: Citation `POPEO2020' on page 3 undefined on input line 251.
+
+
+Package natbib Warning: Citation `Mannoni2019' on page 3 undefined on input line 251.
+
+
+Package natbib Warning: Citation `Wang2018e' on page 3 undefined on input line 263.
+
+[3 <./figs/fig1.png>]
+
+Package natbib Warning: Citation `Wang2018e' on page 4 undefined on input line 270.
+
+
+Package natbib Warning: Citation `Coskun2021' on page 4 undefined on input line 270.
+
+
+Package natbib Warning: Citation `Zhang2021' on page 4 undefined on input line 270.
+
+
+Package natbib Warning: Citation `Ma2021' on page 4 undefined on input line 270.
+
+
+Package natbib Warning: Citation `Razzaghpour2022' on page 4 undefined on input line 299.
+
+
+Package natbib Warning: Citation `Sehla2022' on page 4 undefined on input line 299.
+
+
+Package natbib Warning: Citation `Vukadinovic2018a' on page 4 undefined on input line 299.
+
+
+Package natbib Warning: Citation `Vu2020a' on page 4 undefined on input line 299.
+
+
+Package natbib Warning: Citation `Martin-Sacristan2020a' on page 4 undefined on input line 299.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Overfull \hbox (1.89766pt too wide) detected at line 431
+\OT1/txr/m/n/10 ^^B = [] \OMS/txsy/m/n/10 ^^^ \OT1/txr/m/n/10 0
+ []
+
+
+Underfull \vbox (badness 2285) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+
+Package natbib Warning: Citation `Shamma1994' on page 6 undefined on input line 569.
+
+
+Package natbib Warning: Citation `Wu2021' on page 6 undefined on input line 569.
+
+
+Package natbib Warning: Citation `Wu2004' on page 6 undefined on input line 569.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+<figs/fig2.png, id=38, 1244.12805pt x 1018.64565pt>
+File: figs/fig2.png Graphic file (type png)
+<use figs/fig2.png>
+Package pdftex.def Info: figs/fig2.png  used on input line 705.
+(pdftex.def)             Requested size: 241.84842pt x 198.0056pt.
+
+
+Package natbib Warning: Citation `Vukadinovic2018a' on page 7 undefined on input line 734.
+
+
+Package natbib Warning: Citation `Wang2018e' on page 7 undefined on input line 734.
+
+[7 <./figs/fig2.png>]
+Underfull \hbox (badness 3861) in paragraph at lines 781--782
+[]\OT1/txr/m/n/10 Moreover, cor-re-spond-ing ma-trixes $\OML/txmi/m/it/10 P; Q[]; W[]; A[]; B[]; C[]$
+ []
+
+<figs/fig3.png, id=44, 2118.2337pt x 1477.9215pt>
+File: figs/fig3.png Graphic file (type png)
+<use figs/fig3.png>
+Package pdftex.def Info: figs/fig3.png  used on input line 789.
+(pdftex.def)             Requested size: 455.24408pt x 317.61162pt.
+<figs/fig4.png, id=45, 2140.99875pt x 1477.9215pt>
+File: figs/fig4.png Graphic file (type png)
+<use figs/fig4.png>
+Package pdftex.def Info: figs/fig4.png  used on input line 798.
+(pdftex.def)             Requested size: 455.24408pt x 314.2515pt.
+
+Package natbib Warning: Citation `ogata1995discrete' on page 8 undefined on input line 805.
+
+<figs/fig5.png, id=46, 1550.1915pt x 534.798pt>
+File: figs/fig5.png Graphic file (type png)
+<use figs/fig5.png>
+Package pdftex.def Info: figs/fig5.png  used on input line 810.
+(pdftex.def)             Requested size: 455.24408pt x 157.04593pt.
+[8]
+<figs/fig6.png, id=50, 1189.5642pt x 1099.9494pt>
+File: figs/fig6.png Graphic file (type png)
+<use figs/fig6.png>
+Package pdftex.def Info: figs/fig6.png  used on input line 820.
+(pdftex.def)             Requested size: 241.84842pt x 223.62808pt.
+
+Underfull \vbox (badness 1436) has occurred while \output is active []
+
+
+
+Package natbib Warning: Citation `Taheri1990' on page 9 undefined on input line 830.
+
+
+Package natbib Warning: Citation `Saito2016' on page 9 undefined on input line 830.
+
+
+Package natbib Warning: Citation `zhang2015all' on page 9 undefined on input line 830.
+
+<figs/fig7.png, id=51, 1195.3458pt x 991.5444pt>
+File: figs/fig7.png Graphic file (type png)
+<use figs/fig7.png>
+Package pdftex.def Info: figs/fig7.png  used on input line 837.
+(pdftex.def)             Requested size: 241.84842pt x 200.60509pt.
+
+Underfull \vbox (badness 1270) has occurred while \output is active []
+
+ [9 <./figs/fig3.png>] [10 <./figs/fig4.png> <./figs/fig5.png>]
+<figs/fig8.png, id=61, 1105.731pt x 1122.71445pt>
+File: figs/fig8.png Graphic file (type png)
+<use figs/fig8.png>
+Package pdftex.def Info: figs/fig8.png  used on input line 846.
+(pdftex.def)             Requested size: 241.84842pt x 245.55891pt.
+<figs/fig9.png, id=62, 1219.9176pt x 964.0818pt>
+File: figs/fig9.png Graphic file (type png)
+<use figs/fig9.png>
+Package pdftex.def Info: figs/fig9.png  used on input line 868.
+(pdftex.def)             Requested size: 241.84842pt x 191.12122pt.
+<figs/fig10.png, id=63, 1509.7203pt x 559.00845pt>
+File: figs/fig10.png Graphic file (type png)
+<use figs/fig10.png>
+Package pdftex.def Info: figs/fig10.png  used on input line 877.
+(pdftex.def)             Requested size: 241.84842pt x 89.54553pt.
+ [11 <./figs/fig6.png> <./figs/fig7.png> <./figs/fig8.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12 <./figs/fig9.png> <./figs/fig10.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 952--953
+[]\OT1/txr/m/n/10 Adopting the in-verse Laplace trans-for-ma-tion on
+ []
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 960.
+
+
+Overfull \hbox (1.79462pt too wide) detected at line 968
+[][]
+ []
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 972.
+
+<figs/figapp.png, id=75, 957.468pt x 233.673pt>
+File: figs/figapp.png Graphic file (type png)
+<use figs/figapp.png>
+Package pdftex.def Info: figs/figapp.png  used on input line 996.
+(pdftex.def)             Requested size: 241.84842pt x 59.02425pt.
+
+Package natbib Warning: Citation `Ozdemir2017a' on page 13 undefined on input line 1036.
+
+
+Package natbib Warning: Citation `Kollar2006a' on page 13 undefined on input line 1036.
+
+
+Package natbib Warning: Citation `Ljung1995a' on page 13 undefined on input line 1036.
+
+[13 <./figs/figapp.png>]
+
+Package natbib Warning: Citation `Mak2011' on page 14 undefined on input line 1055.
+
+
+Package natbib Warning: Citation `Wang2018e' on page 14 undefined on input line 1055.
+
+
+Package natbib Warning: Citation `Naus2010a' on page 14 undefined on input line 1055.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+
+Package natbib Warning: Citation `Kolmanovskii1999' on page 15 undefined on input line 1123.
+
+
+Package natbib Warning: Citation `wang2016fuzzy' on page 15 undefined on input line 1159.
+
+
+Package natbib Warning: Citation `lian2020dissipativity' on page 15 undefined on input line 1159.
+
+No file paper81.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+[15] (./paper81.aux) ) 
+Here is how much of TeX's memory you used:
+ 6971 strings out of 480901
+ 107779 string characters out of 5904182
+ 420881 words of memory out of 5000000
+ 24080 multiletter control sequences out of 15000+600000
+ 488764 words of font info for 201 fonts, out of 8000000 for 9000
+ 39 hyphenation exceptions out of 8191
+ 68i,26n,74p,2230b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/public/txfonts/txex.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/public/txfonts/txexa.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/Program Files (x86)/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on paper81.pdf (15 pages, 13475101 bytes).
+PDF statistics:
+ 133 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+

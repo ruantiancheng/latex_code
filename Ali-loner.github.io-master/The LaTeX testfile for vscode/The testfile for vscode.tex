@@ -1,0 +1,160 @@
+\documentclass[fontset=windows]{article}
+\usepackage[margin=1in]{geometry}%设置边距，符合Word设定
+\usepackage{ctex}
+\usepackage{setspace}
+\usepackage{lipsum}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}%插入图片
+\graphicspath{{Figures/}}%文章所用图片在当前目录下的 Figures目录
+
+\usepackage{hyperref} % 对目录生成链接，注：该宏包可能与其他宏包冲突，故放在所有引用的宏包之后
+\hypersetup{colorlinks = true,  % 将链接文字带颜色
+	bookmarksopen = true, % 展开书签
+	bookmarksnumbered = true, % 书签带章节编号
+	pdftitle = This is a testfile for vscode, % 标题
+	pdfauthor =Ali-loner} % 作者
+\bibliographystyle{plain}% 参考文献引用格式
+\newcommand{\upcite}[1]{\textsuperscript{\cite{#1}}}
+
+\renewcommand{\contentsname}{\centerline{Contents}} %经过设置word格式后，将目录标题居中
+
+
+\title{\heiti\zihao{2} This is a testfile for vscode}
+\author{\songti Ali-loner}
+\date{2020.08.02}
+
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+
+\begin{abstract}
+  \lipsum[2]
+\end{abstract}
+
+\tableofcontents
+
+\section{This is a section}
+
+
+
+First, we present a lemma on the Lyapunov function:
+\begin{lemma}
+  \label{lemmaYY}
+  . Let a system $\dot{x}(t)=f(x(t), x(t-h\left(t\right)))$ with $f\left(0,0 \right)= 0$. Assume the Lyapunov function $F:G\rightarrow\mathbb{R}$ exists with $x,y\in G$, $F\left(y\right)<F\left(x\right)$ implies
+  \begin{equation}
+    \left(\dot{F}\left(x\right)f\left(x,y\right)\right)\left(\ddot{F}\left(x\right)f\left(x,y\right)\right)\le0.
+  \end{equation}
+
+  Then the solution $x(t)\equiv0$ is stable.
+\end{lemma}
+
+Suppose there exists a Lyapunov function $F:\mathbb{R}^n\rightarrow\mathbb{R}$. Then define functional $V:\mathcal{C}\rightarrow\mathbb{R}$ as follows:
+\begin{equation}
+  V(\phi ): = \mathop {\max }\limits_{ - h \le \theta  \le 0} F(\phi (\theta )),(\forall \phi  \in \mathcal{C}).
+  \label{yy1}
+\end{equation}
+
+By definition, the following conditions hold:
+\begin{equation}
+  \dot{V}(\phi)\left\{\begin{array}{cl}
+    \leq 0,                                                          & \text { if } F(\phi(0))<V(\phi), \\
+    =\max \left(\dot{F}(\phi(0)), f(\phi(0), \phi(-h(t))), 0\right), & \text { if } F(\phi(0))=V(\phi),
+  \end{array}\right.
+\end{equation}
+
+where $f(\phi(0), \phi(-h(t)))=\Psi\phi(0)+\Psi_d\phi(-h(t))$.
+
+Thus $\dot{V}\left(\phi\right)>0$ holds if and only if the following condition holds:
+\begin{equation}
+  F(\phi (0)) = \mathop {\max }\limits_{ - h \le \theta  \le 0} F(\phi (\theta ))\;and(\dot F(\phi (0)),f(\phi(0), \phi(-h(t)))) > 0.
+  \label{yy3}
+\end{equation}
+
+The function $F$ can be defined in some neighborhood $G\subset\mathbb{R}^n$. Moreover, the functional $V$ is then defined for $\phi\in\mathcal{C}$ with values in $G$.
+
+Suppose Equation~(\ref{yy3}) holds for some functions $\phi\in\mathcal{C}$, then we can obtain the inequality $F\left(\phi\left(-h\left(t\right)\right)\right)<F\left(\phi\left(0\right)\right)$ making $\phi$ arbitrarily small. Thus the second condition in Equation~(\ref{yy3}) still holds but conflicts with Lemma~\ref{lemmaYY}. Therefore $\dot{V}\left(\phi\right)\le0$ holds constantly for all $\phi$.
+
+
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[scale=0.2]{Ali.jpg}
+  \caption{this is Ali}
+  \label{1}
+\end{figure}
+123123
+
+% $\sum_{j\in\mathcal{V}} a_{ij}$.
+
+% $\left[\begin{matrix}A&B\\B^T&C\\\end{matrix}\right]$
+% where $D$, $E$, $E_{d1}$ and $E_{d2}$are constant matrices with appropriate dimensions; and F(t) is an unknown real time-varying matrix with Lebesgue-measurable elements satisfying:
+% Assume the Lyapunov function $F:G\rightarrow\mathbb{R}$ exists with $x,y\in G$, $F\left(y\right)<F\left(x\right)$ implies
+
+% \begin{equation}
+%   \left\{ {\begin{array}{*{20}{l}}
+%         {\Psi  = {A^*} \in {\mathbb{R}^{3n \times 3n}}}                                                                                                                                     \\
+%         {{\Psi _{d1}} =  - {B^*}\mathcal{F}{E_1} \in {\mathbb{R}^{3n \times 3n}}{\text{ }}}                                                                                                 \\
+%         {{\Psi _{d2}} = {B^*}\mathcal{J}{E_2} \in {\mathbb{R}^{3n \times 3n}}{\text{ }}}                                                                                                    \\
+%         {{A^*} = {I_n} \otimes A \in {\mathbb{R}^{3n \times 3n}}}                                                                                                                           \\
+%         {{B^*} = {I_n} \otimes B \in {\mathbb{R}^{3n \times n}}}                                                                                                                            \\
+%         {\mathcal{K} = {{[{k_{ij}}^T]}_{n \times n}}{\text{ }}}                                                                                                                             \\
+%         {\mathcal{H} = \mathcal{A}^\circ \mathcal{K} = {{[{a_{ij}} \otimes {k_{ij}}^T]}_{N \times N}} \in {\mathbb{R}^{n \times 3n}}{\text{ }}}                                             \\
+%         {\mathcal{J} = diag\underbrace {\left\{ {{\mathcal{D}_1},{\mathcal{D}_2}, \cdots ,{\mathcal{D}_N}} \right\}}_n \in {\mathbb{R}^{n \times 3{n^2}}}{\text{ }}}                        \\
+
+%         {\mathcal{F} = diag\underbrace {\left\{ {{\mathcal{H}_1},{\mathcal{H}_2}, \cdots ,{\mathcal{H}_N}} \right\}}_n \in {\mathbb{R}^{n \times 3{n^2}}}{\text{ }}}                        \\
+%         {{\mathcal{H}_i} = {\mathcal{D}_i}^\circ \underbrace {\left[ {{\psi _{i1}},{\psi _{i2}}, \cdots ,{\psi _{in}}} \right]}_n \in {\mathbb{R}^{1 \times 3n}},\forall i \in \mathcal{V}} \\
+
+%         {{\mathcal{D}_i} = \underbrace {\left[ {{a_{i1}}{k_{i1}}^T,{a_{i2}}{k_{i2}}^T, \cdots ,{a_{in}}{k_{in}}^T} \right]}_n \in {\mathbb{R}^{1 \times 3n}},\forall i \in \mathcal{V}}     \\
+%         {{E_1} = diag\underbrace {\left\{ {{I_1},{I_1}, \cdots ,{I_1}} \right\}}_n \in {\mathbb{R}^{3{n^2} \times 3n}}}                                                                     \\
+%         {{E_2} = {{\underbrace {\left[ {\begin{array}{*{20}{c}}
+%                           {{I_2}^T} & \cdots & {{I_2}^T}
+%                         \end{array}} \right]}_n}^T} \in {\mathbb{R}^{3{n^2} \times 3n}}}                                                                      \\
+%         {{I_1} = {{\underbrace {\left[ {\begin{array}{*{20}{c}}
+%                           {{I_3}^T} & \cdots & {{I_3}^T}
+%                         \end{array}} \right]}_n}^T} \in {\mathbb{R}^{3n \times 3}}}                                                                           \\
+%         {{I_2} = {I_{3n}} \in {\mathbb{R}^{3n \times 3n}}}                                                                                                                                  \\
+%         {{I_3} = {I_3} \in {\mathbb{R}^{3 \times 3}}}
+%       \end{array}} \right.
+% \end{equation}
+% \begin{equation}
+%   \left(\dot{F}\left(x\right),f\left(x,y\right)\right)\left(\ddot{F}\left(x\right)f\left(x,y\right)\right)\le0
+% \end{equation}
+
+
+% Then the solution $x(0)\equiv0$ is stable.
+
+
+
+
+% \Theta=\left[\begin{matrix}Y_{11}&Y_{12}&L_1\\\ast&Y_{22}&L_2\\\ast&\ast&N\\\end{matrix}\right]\succ0 (19)
+123123
+
+12312
+
+123123
+
+123123
+
+123123
+
+123123
+
+12312
+
+123123
+
+123123
+
+123123
+
+123123
+
+12312
+
+123123
+
+这句话是测试能否进行引用及支持中文\upcite{1}。
+\bibliography{books}
+\end{document}

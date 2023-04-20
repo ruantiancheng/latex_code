@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Transportation-Science-template.aux
+The style file: informs2014trsc.bst
+Database file #1: cas-refs.bib
+You've used 49 entries,
+            2928 wiz_defined-function locations,
+            908 strings with 15015 characters,
+and the built_in function-call counts, 52374 in all, are:
+= -- 5267
+> -- 1792
+< -- 2
++ -- 647
+- -- 590
+* -- 3926
+:= -- 6734
+add.period$ -- 96
+call.type$ -- 49
+change.case$ -- 407
+chr.to.int$ -- 50
+cite$ -- 49
+duplicate$ -- 4936
+empty$ -- 3881
+format.name$ -- 724
+if$ -- 10660
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 503
+newline$ -- 153
+num.names$ -- 196
+pop$ -- 2345
+preamble$ -- 1
+purify$ -- 356
+quote$ -- 0
+skip$ -- 928
+stack$ -- 0
+substring$ -- 5394
+swap$ -- 1242
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 438
+warning$ -- 0
+while$ -- 446
+width$ -- 0
+write$ -- 557

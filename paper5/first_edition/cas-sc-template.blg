@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: cas-sc-template.aux
+The style file: cas-model2-names.bst
+Database file #1: cas-refs.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--missing institution in Choi1995
+Warning--empty journal in Hedrick1993
+You've used 58 entries,
+            2990 wiz_defined-function locations,
+            1149 strings with 19267 characters,
+and the built_in function-call counts, 41310 in all, are:
+= -- 3185
+> -- 1716
+< -- 33
++ -- 659
+- -- 600
+* -- 4632
+:= -- 5970
+add.period$ -- 184
+call.type$ -- 58
+change.case$ -- 487
+chr.to.int$ -- 57
+cite$ -- 60
+duplicate$ -- 3015
+empty$ -- 2950
+format.name$ -- 794
+if$ -- 7689
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 596
+newline$ -- 315
+num.names$ -- 232
+pop$ -- 1059
+preamble$ -- 1
+purify$ -- 432
+quote$ -- 0
+skip$ -- 865
+stack$ -- 0
+substring$ -- 1816
+swap$ -- 2256
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 513
+warning$ -- 2
+while$ -- 266
+width$ -- 0
+write$ -- 860
+(There were 2 warnings)
